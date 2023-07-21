@@ -31,7 +31,7 @@ const App = () => {
 
   return (
     <div className="App"> 
-      <h1 className="app-title">Cats Rolodex</h1>
+      <h1 className="app-title">Cat Rolodex</h1>
       <SearchBox 
         className='cats-search-box'
         placeholder='Search cats'
